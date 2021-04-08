@@ -16,4 +16,4 @@ This dataset shows the number of cases of Covid-19 and deaths due to Covid-19 in
 https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa?view_id=623baf47-90d4-4745-b17f-6b1f14849d76
 This dataset shows the obesity rates in Alleghany county based on neighborhood.
 ## Abstract
-We decided that the best neighborhood is the healthiest neighnorhood. We combined these three data sets using a point system to decide which neighborhood in Allegheny County is the BEST neighborhood.
+We decided that the best neighborhood is the healthiest neighborhood. We combined these three data sets using a point system to decide which neighborhood in Allegheny County is the BEST neighborhood.
