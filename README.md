@@ -1,5 +1,5 @@
 # Final-Project
-## Team 11
+## Team ELEVEN
 ### Lily Young
 lgy2@pitt.edu
 ### Cade Gallagher
